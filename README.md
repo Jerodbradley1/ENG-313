@@ -1,3 +1,3 @@
 # Header
 
-subheader
+<strong>subheader</strong>
