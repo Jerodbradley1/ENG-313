@@ -10,7 +10,7 @@
 <br>
 ---It probably wont happen but I'm praying
 
-| Tables        | Are           | Cool  |
+| Class         | Grade           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
