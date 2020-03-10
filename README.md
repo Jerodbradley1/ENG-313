@@ -17,3 +17,10 @@
 | CSE 174 | A      |    Dr. David Woods |
 
 <img src="https://www.johnnyseeds.com/dw/image/v2/BBBW_PRD/on/demandware.static/-/Sites-jss-master/default/dwfd95ba5a/images/products/flowers/01814_01_sunrichorangesum.jpg?sw=387&cx=302&cy=0&cw=1196&ch=1196">
+
+This code has some `backticks` included `within` it
+
+Things I like include
+
+..* coding 
+..* mountain biking
