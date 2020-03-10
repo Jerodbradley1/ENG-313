@@ -15,3 +15,5 @@
 | ENG 313      | A+ | Dr. Nathan Riggs |
 | MTH 215      | B      |   Mrs. Cain |
 | CSE 174 | A      |    Dr. David Woods |
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
