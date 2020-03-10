@@ -7,3 +7,7 @@
 >This is gonna be a rough semester for my GPA
 
 ***I hope I get at least a C+ in Precalculus
+<br>
+---It probably wont happen but I'm praying
+
+
