@@ -12,6 +12,6 @@
 
 | Class         | Grade         | Teacher  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| ENG 313      | A+ | Dr. Nathan Riggs |
+| MTH 215      | B      |   Mrs. Cain |
+| CSE 174 | A      |    Dr. David Woods |
