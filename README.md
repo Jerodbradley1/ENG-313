@@ -4,4 +4,8 @@
 
 <h5>I am proficient in HTML, CSS, Javascript, PHP, and MySQL</h5>
 
-| Language | Proficiency Level |
+| Class    | Grade    | Teacher    |
+|                                  |
+|                                  |
+|                                  |
+|                                  |
