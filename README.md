@@ -24,3 +24,8 @@ Things I like include
 
 * coding 
 * mountain biking
+
+1.Eating
+2.Sleeping
+3. Code
+
