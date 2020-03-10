@@ -10,7 +10,7 @@
 <br>
 ---It probably wont happen but I'm praying
 
-| Class         | Grade           | Cool  |
+| Class         | Grade         | Teacher  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
