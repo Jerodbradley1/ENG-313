@@ -16,6 +16,6 @@
 | MTH 215      | B      |   Mrs. Cain |
 | CSE 174 | A      |    Dr. David Woods |
 
-Reference-style: 
-![Silicon Valley][https://images.app.goo.gl/NtVzJ1JUs8khtR2h7]
+
+![Silicon Valley]https://images.app.goo.gl/NtVzJ1JUs8khtR2h7
 
