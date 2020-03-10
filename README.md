@@ -4,8 +4,4 @@
 
 <h5>I am proficient in HTML, CSS, Javascript, PHP, and MySQL</h5>
 
-| Class    | Grade    | Teacher    |
-|                                  |
-|                                  |
-|                                  |
-|                                  |
+>This is gonna be a rough semester for my GPA
