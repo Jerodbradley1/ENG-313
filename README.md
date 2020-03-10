@@ -22,5 +22,5 @@ This code has some `backticks` included `within` it
 
 Things I like include
 
-..* coding 
-..* mountain biking
+* coding 
+* mountain biking
