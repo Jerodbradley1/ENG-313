@@ -16,4 +16,4 @@
 | MTH 215      | B      |   Mrs. Cain |
 | CSE 174 | A      |    Dr. David Woods |
 
-[logo]: https://images.app.goo.gl/ZtcFRSKuBDKFvzEV9
+[logo]: (https://images.app.goo.gl/ZtcFRSKuBDKFvzEV9)
